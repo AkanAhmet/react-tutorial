@@ -3,12 +3,12 @@
 
 This tutorial includes; 
 
-- EcmaScript Fundamentals[https://www.ecma-international.org/]
+- [EcmaScript Fundamentals](https://www.ecma-international.org/)
 - React props, hooks : useState(), useEffect() {mount-unMound}, useParams(), nested routes { <Outlet />} css modules
-- Axios[https://axios-http.com/docs/intro] {jsonplaceholder.com}[https://jsonplaceholder.typicode.com/]
-- React Router[https://reactrouter.com/en/main]
-- Formik[https://formik.org/]
-- Yup[https://github.com/jquense/yup]
+- [Axios](https://axios-http.com/docs/intro) [{jsonplaceholder.com}](https://jsonplaceholder.typicode.com/)
+- [React Router](https://reactrouter.com/en/main)
+- [Formik](https://formik.org/)
+- [Yup](https://github.com/jquense/yup)
 
 
 ## Tech Stack
