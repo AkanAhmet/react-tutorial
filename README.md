@@ -4,7 +4,7 @@
 This tutorial includes; 
 
 - [EcmaScript Fundamentals](https://www.ecma-international.org/)
-- [React](https://reactjs.org/) props, hooks : useState(), useEffect() {mount-unMound}, useParams(), nested routes { <Outlet />} css modules
+- [React](https://reactjs.org/) props, hooks : useState(), useEffect() {mount-unMound}, useParams(), nested routes { <code><Outlet /> </code>}, css modules
 - [Axios](https://axios-http.com/docs/intro) [{jsonplaceholder.com}](https://jsonplaceholder.typicode.com/)
 - [React Router](https://reactrouter.com/en/main)
 - [Formik](https://formik.org/)
